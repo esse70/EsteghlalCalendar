@@ -1,8 +1,4 @@
-# Android Persian Calendar
 
-[![GitHub Actions](https://action-badges.now.sh/persian-calendar/DroidPersianCalendar?workflow=android)](https://github.com/persian-calendar/DroidPersianCalendar/actions)
-
-<div dir=rtl>
 
 ## تقویم استقلال اندروید
 
