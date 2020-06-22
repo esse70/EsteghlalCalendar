@@ -25,6 +25,6 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 ## Build
 
-1. `git clone https://github.com/persian-calendar/DroidPersianCalendar`
+1. `https://github.com/esse70/EsteghlalCalendar`
 1. Import the project on Android Studio
 
