@@ -4,19 +4,11 @@
 
 <div dir=rtl>
 
-## تقویم فارسی اندروید
+## تقویم استقلال اندروید
 
-تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و پشتیبانی از DashClock  
-برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.
 
-</div>
 
-## Download
 
-- [F-Droid](https://f-droid.org/app/com.byagowi.persiancalendar)
-- [Google Play](https://play.google.com/store/apps/details?id=com.byagowi.persiancalendar)
-- [Github](https://github.com/persian-calendar/DroidPersianCalendar/releases/)
-- [Bazaar](http://cafebazaar.ir/app/com.byagowi.persiancalendar)
 
 ## License
 
